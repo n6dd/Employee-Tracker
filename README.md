@@ -10,7 +10,7 @@ You will need VS Code and Git Bash. Along with those you will need some dependen
 
 ## Usage
 
-You will have a few options that you can choose from using the arrow keys on your keyboard. In the example video [here]([https://drive.google.com/drive/u/1/home](https://github.com/n6dd/Employee-Tracker)), I have the tables already pre-populated with random people but you can also start from scratch using the add options.
+You will have a few options that you can choose from using the arrow keys on your keyboard. In the example video [here](https://drive.google.com/file/d/1GVCMYfDRiVtQ3moqWWbPr-RaHXl73yav/view?usp=drive_link), I have the tables already pre-populated with random people but you can also start from scratch using the add options.
 
 ## Credits
 
